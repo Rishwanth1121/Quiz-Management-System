@@ -1,2 +1,2 @@
 # QuizProject with java
-Capstone Project
+A project on quiz management.
